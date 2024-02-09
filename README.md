@@ -1,9 +1,16 @@
 -Hello, John!
+
 -Hello, Kate!
+
 -How much do I have to lose for our holiday, the food was lovely!
+
 -Kate, you owe $100 like the rest of us. -You owe $100.
+
 -But you boys eat more than we do, why should the girls get $100 off like the boys? 
+
 -Hmm, you're right Kate, we need to figure this out. I think I know a programme for that!
+
+
 
 Boys and girls went to the base. Everyone ate food and had fun. 
 But the next day we decided to decide how much to share. 
