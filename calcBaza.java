@@ -39,7 +39,7 @@ public class calcBaza {
         System.out.println("One Girls Amount: " + String.format("%.2f", oneGirlsAmount));
         
         System.out.println("\nPress Enter to exit the program...");
-        scanner.nextLine(); // Ожидание ввода пользователя
-        scanner.nextLine(); // Ожидание нажатия клавиши Enter
+        scanner.nextLine(); // waiting for user input
+        scanner.nextLine(); // waiting for the Enter key to be pressed
     }
 }
